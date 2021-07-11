@@ -1,0 +1,5 @@
+This is an app to record your fitness.
+Users can add/remove Excercies and Workouts at runtime.
+Users can edit the type of Workout as well, doing so instantly updates the related model object and the UITable view to show the latest data states.
+The current application is still under development, and the current stage is mainly to test the integrity of the interface and the correctness of the logical function.
+If you encounter problems during the test, please contact me.
